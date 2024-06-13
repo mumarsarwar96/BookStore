@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 10,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/opened-book-with-dinosaur-prehistoric-forest-scene_1308-110156.jpg?t=st=1713012402~exp=1713016002~hmac=e42b964c2beaf419ccaeb3c7d9a2b8d21d4896775a5461e32197b6eae428613f&w=826"
+  },
+  {
+    "id": 2,
+    "name": "Action Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 20,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-photo/open-book-with-doomsday-painting-inside_278265-755.jpg?w=740"
+  },
+  {
+    "id": 3,
+    "name": "Comedy Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 30,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/stack-old-coming-book-strips_23-2150256491.jpg?t=st=1713012690~exp=1713016290~hmac=65100f449f2d0ec35e476b7599cdeccdc8f57c0a66b7adf6fe7ba1520526edd7&w=1380"
+  },
+  {
+    "id": 4,
+    "name": "DSA Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 40,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-psd/flat-design-technology-concept-poster-template_23-2149940317.jpg?w=740"
+  },
+  {
+    "id": 5,
+    "name": "Math Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 50,
+    "category": "Free",
+    "image": "https://simplycharlottemason.com/wp-content/uploads/2012/09/Mathematics-hd.jpg"
+  },
+  {
+    "id": 6,
+    "name": "OOP Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 60,
+    "category": "Free",
+    "image": "https://d24f1whwu8r3u4.cloudfront.net/assets/book-covers/oo_ruby-16afdd1ea90f62931d9107a9126901912a86f5d7194b820aa1f050c94caa8aa7.png"
+  },
+  {
+    "id": 7,
+    "name": "C++ Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 70,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/71uN0nVAkvL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "MERN Stack Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 80,
+    "category": "Free",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-7138-4"
+  },
+  {
+    "id": 9,
+    "name": "Python Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 90,
+    "category": "Free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-TpmTjH9dZyNMLI7ryFfa6jhsxKrzLZ2j_rCWzCUwQ&s"
+  },
+  {
+    "id": 10,
+    "name": "Data Science Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 100,
+    "category": "Free",
+    "image": "https://lh4.googleusercontent.com/HSD0yq-L3R-HZRneYrs1DfJopSAw9HRBy40sRb7XF6kYL4asbNZgEGv69ARrM3jVU7oNvll4gGb5FQzWTsk-E3gAP6VeHuvC55lPQNN9a2HZxmjVhdB0XPMu5Z1wKo8azcrhCuXi-EW0Cdxn5rN00qYj5tHbl4QFx29PaA52cf-fifBGQTVwTsMmBw"
+  }
+]
